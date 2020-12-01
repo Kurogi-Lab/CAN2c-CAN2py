@@ -1,12 +1,13 @@
-RUN cd /kuro/sotu/2019/can2m/can2py
-RUN sudo apt install python
-Download get-pip.py
-RUN python get – pip.py
-RUN python –m pip install numpy
-RUN python –m pip install pandas
-RUN python –m pip install xterm 
-RUN python –m pip install gnuplot 
-RUN python –m pip install scikit-learn 
-RUN python –m pip install matplotlib 
-RUN sudo apt install python-tk 
-RUN sudo apt install gv 
+
+<RUN> cd /kuro/sotu/2019/can2m/can2py
+<RUN> sudo apt install python
+<Download> get-pip.py
+<RUN> python get – pip.py
+<RUN> python –m pip install numpy
+<RUN> python –m pip install pandas
+<RUN> python –m pip install xterm 
+<RUN> python –m pip install gnuplot 
+<RUN> python –m pip install scikit-learn 
+<RUN> python –m pip install matplotlib 
+<RUN> sudo apt install python-tk 
+<RUN> sudo apt install gv 
