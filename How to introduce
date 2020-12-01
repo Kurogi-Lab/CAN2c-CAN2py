@@ -1,8 +1,8 @@
 
 <RUN> cd /kuro/sotu/2019/can2m/can2py
 <RUN> sudo apt install python
-<Download> get-pip.py
-<RUN> python get – pip.py
+<Download> get-pip.py  /* https://bootstrap.pypa.io/get-pip.py  */
+<RUN> python get – pip.py  
 <RUN> python –m pip install numpy
 <RUN> python –m pip install pandas
 <RUN> python –m pip install xterm 
