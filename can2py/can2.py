@@ -4,9 +4,7 @@
 #chainer 3.1.0
 ##
 
-#Written by Hiromu Kitayama
-#高速化するための工夫を考えた方がいいかも
-#全体的に学習精度がそこまで良くはならなかった。どこが悪いのか探した方が良い
+
 
 ######
 import switchCupy
