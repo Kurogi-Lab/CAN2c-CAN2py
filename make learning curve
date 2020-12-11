@@ -6,3 +6,4 @@ export fn=Geo1d  ntrain=1000 restest=50 extest=10 k=1;python makesamples.py -msd
 export T=100 N=90 k=1 Tpinv=-1 seed=5 nop=1;python can2.py -fn tmp/train.csv,tmp/test.csv -k $k,0 -in
 $N,6,0.2,3,0,0.5,0.2 -ex 1,0.05,0.7,$T,5,50,350 --gpu -1 -DISP 1 -Tpinv $Tpinv -s $seed -nop $nop
 
+![overview image](https://raw.githubusercontent.com/Nakashimataiga/can2c/main/result1.png?token=ARIITSR722KLD4RMMH2FAZC72LKGI)
