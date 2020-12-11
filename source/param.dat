@@ -1,9 +1,0 @@
-1          #0:time-series,1:function,3:ijcnn04,4:range-data,No.2
-1 0     #dimensionality k1 k2				        
-result/train-test.csv 				
-../tmp/train.csv 
-0 0 0 0   #normalization-of-output ymin0 ymax0 -> ymin1 ymax1	        
-nl         net-load			                
-result-ensrs2ge/net/train+m2a2.2b0:0s2j9N60K1.net
-ssp0_      #prediction of training data -> predict0.dat    
-qu         
