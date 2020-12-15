@@ -5,9 +5,9 @@ You can use C or Python for CAN2.
 
 ## CAN2  C 
 If you wish to compile CAN2 C language  clone this repository and cd into it:
-[git clone https://github.com/Kurogi-Lab/CAN2c-CAN2py/can2c]
+[git clone https://github.com/Kurogi-Lab/CAN2c-CAN2py/tree/main/can2c]
 
 ## CAN2  python
 If you wish to compile CAN2 python first clone this repository and cd into it:
-[git clone https://github.com/Kurogi-Lab/CAN2c-CAN2py/can2py]
+[git clone https://github.com/Kurogi-Lab/CAN2c-CAN2py/tree/main/can2py]
 Then run the list of "introduce".
