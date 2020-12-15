@@ -4,9 +4,10 @@ CAN2py is a  program whose processing speed is superior to deep learning for art
 You can use C or Python for CAN2.
 
 ## CAN2  C 
-Download "can2c" folder and run Terminal.
+If you wish to compile CAN2 C language  clone this repository and cd into it:
+[git clone https://github.com/Kurogi-Lab/CAN2c-CAN2py/can2c]
 
 ## CAN2  python
-Download  "can2py" folder .
-Then read "introduce" and execute it.
-
+If you wish to compile CAN2 python first clone this repository and cd into it:
+[git clone https://github.com/Kurogi-Lab/CAN2c-CAN2py/can2py]
+Then run the list of "introduce".
