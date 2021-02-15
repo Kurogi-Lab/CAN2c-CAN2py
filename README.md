@@ -8,7 +8,8 @@ CAN2 is neural network learning nonlinear functions and approximate them as piec
 
 You can apply CAN2 to "Nonlinear function learning problem " ,  " voice recognition problem" , "presuming amount of rainfall"  and so on.
 
-![image](https://user-images.githubusercontent.com/72387018/107893870-e097d800-6f70-11eb-9c36-cc57d5c10eee.png)
+
+![image](https://user-images.githubusercontent.com/72387018/107901137-3c209080-6f86-11eb-987f-58a77fd95b7d.png)
 
 
 ## CAN2  C 
