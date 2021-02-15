@@ -2,7 +2,9 @@
 ## What is CAN2
 CAN2py is a  program whose processing speed is superior to deep learning for artificial neural network developed by our laboratory ,Kurogi Lab.
 You can use C or Python for CAN2.
+
 ![image](https://user-images.githubusercontent.com/72387018/107893870-e097d800-6f70-11eb-9c36-cc57d5c10eee.png)
+
 
 ## CAN2  C 
 If you wish to compile CAN2 C language  clone this repository and cd into it:
