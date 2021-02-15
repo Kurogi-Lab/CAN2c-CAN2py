@@ -1,9 +1,11 @@
 # CAN2
 ## What is CAN2
 CAN2py is a  program whose processing speed is superior to deep learning for artificial neural network developed by our laboratory ,Kurogi Lab.
+
 You can use C or Python for CAN2.
 
 CAN2 is neural network learning nonlinear functions and approximate them as piecewise linear function , using  Competitive net and associative net. 
+
 You can apply CAN2 to "Nonlinear function learning problem " ,  " voice recognition problem" , "presuming amount of rainfall"  and so on.
 
 ![image](https://user-images.githubusercontent.com/72387018/107893870-e097d800-6f70-11eb-9c36-cc57d5c10eee.png)
