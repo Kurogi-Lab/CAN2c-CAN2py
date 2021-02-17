@@ -32,11 +32,20 @@ gv
 gls
 ```
 
-## CAN2  C 
-If you wish to compile CAN2 C language  clone this repository and cd into it:
-[git clone https://github.com/Kurogi-Lab/CAN2c-CAN2py/tree/main/can2c]
-
-## CAN2  python
-If you wish to compile CAN2 python first clone this repository and cd into it:
-[git clone https://github.com/Kurogi-Lab/CAN2c-CAN2py/tree/main/can2py]
-Then run the list of "introduce".
+## How to use
+- CAN2 C language data download  
+   
+  ```
+  $ git clone https://github.com/Kurogi-Lab/CAN2c-CAN2py/tree/main/can2c
+  $ cd classification3dmodel
+  $ bash get_modelnet.sh
+  ```
+  
+  - CAN2 python data download  
+   
+  ```
+  $ git clone https://github.com/Kurogi-Lab/CAN2c-CAN2py/tree/main/can2py
+  $ cd classification3dmodel
+  $ bash get_modelnet.sh
+  ```
+Amd run the list of "introduce".
