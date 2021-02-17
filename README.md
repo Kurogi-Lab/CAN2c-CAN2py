@@ -18,16 +18,25 @@ Function approximation using CAN2(Left) and MLP|relu(Right)
 
 ![image](https://user-images.githubusercontent.com/72387018/108139650-dd812100-7103-11eb-9ef7-74fa689fe48b.png)
 
-##Requirement
+## Requirement
 pip.py  
+
 numpy
+
 pandas
+
 xterm 
+
 gnuplot 
+
 scikit-learn 
+
 matplotlib 
-python-tk 
-gv 
+
+python-tk
+
+gv
+
 gls
 
 
