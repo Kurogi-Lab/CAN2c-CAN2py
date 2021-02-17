@@ -13,7 +13,6 @@ You can apply CAN2 to "Nonlinear function learning problem " ,  " voice recognit
 
 
 
-## Function approximation comparing CAN2C , CAN2Python , MLP|relu
 
 Function approximation using CAN2(Left) and MLP|relu(Right)
 
