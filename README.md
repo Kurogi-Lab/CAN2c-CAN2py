@@ -12,6 +12,14 @@ You can apply CAN2 to "Nonlinear function learning problem " ,  " voice recognit
 ![image](https://user-images.githubusercontent.com/72387018/107901137-3c209080-6f86-11eb-987f-58a77fd95b7d.png)
 
 
+
+## Function approximation comparing CAN2C , CAN2Python , MLP|relu
+
+Function approximation using CAN2(Left) and MLP|relu(Right)
+
+![image](https://user-images.githubusercontent.com/72387018/108139650-dd812100-7103-11eb-9ef7-74fa689fe48b.png)
+
+
 ## CAN2  C 
 If you wish to compile CAN2 C language  clone this repository and cd into it:
 [git clone https://github.com/Kurogi-Lab/CAN2c-CAN2py/tree/main/can2c]
