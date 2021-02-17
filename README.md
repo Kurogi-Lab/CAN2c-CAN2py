@@ -35,17 +35,15 @@ gls
 ## How to use
 - CAN2 C language data download  
    
-  ```
-  $ git clone https://github.com/Kurogi-Lab/CAN2c-CAN2py/tree/main/can2c
-  $ cd classification3dmodel
-  $ bash get_modelnet.sh
-  ```
+```
+$ git clone https://github.com/Kurogi-Lab/CAN2c-CAN2py/tree/main/can2c
+$ cd can2c
+```
   
   - CAN2 python data download  
    
-  ```
-  $ git clone https://github.com/Kurogi-Lab/CAN2c-CAN2py/tree/main/can2py
-  $ cd classification3dmodel
-  $ bash get_modelnet.sh
-  ```
-Amd run the list of "introduce".
+```
+$ git clone https://github.com/Kurogi-Lab/CAN2c-CAN2py/tree/main/can2py
+$ cd can2py 
+```
+And run the list of "introduce".
