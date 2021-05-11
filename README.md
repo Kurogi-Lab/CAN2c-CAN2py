@@ -49,4 +49,7 @@ $ cd can2py
 ```
 And run the list of "introduce".
 
+## Examples
+### function approximation
+
 ![kunren](https://user-images.githubusercontent.com/49471144/117872656-e71cbe00-b2d9-11eb-93fd-26f737b90826.png)
