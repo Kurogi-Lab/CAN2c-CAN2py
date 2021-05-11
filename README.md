@@ -48,3 +48,5 @@ $ git clone https://github.com/Kurogi-Lab/CAN2c-CAN2py/tree/main/can2py
 $ cd can2py 
 ```
 And run the list of "introduce".
+
+![kunren](https://user-images.githubusercontent.com/49471144/117872656-e71cbe00-b2d9-11eb-93fd-26f737b90826.png)
